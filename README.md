@@ -1,2 +1,2 @@
 # intent
-What's your intention with YOUR email?
+What's your intentions with **your** email?
