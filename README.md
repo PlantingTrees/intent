@@ -8,7 +8,7 @@
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache2.0-emerald.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 [![Status: Alpha](https://img.shields.io/badge/Status-In_Development-amber.svg)]()
-[![Twitter Follow](https://img.shields.io/twitter/follow/plantingtrees?style=social)](https://twitter.com/yourhandle)
+[![Twitter Follow](https://img.shields.io/twitter/follow/plantingtrees?style=social)](https://x.com/NTrees35326)
 
 ![Intent Demo](https://vhs.charm.sh/vhs-3m3LD7Wz9heF1hnQHMkmfm.gif)
 
