@@ -31,7 +31,7 @@ Stop refreshing. Start listening.
 
 ### Semantic Filters
 ![Intent Demo](https://vhs.charm.sh/vhs-4cJdmLN1ZmheerPucUOtVQ.gif)
-Context over keywords. While the terminal for now uses keywords, I am actively intergating semantic filters.
+Context over keywords. While the terminal still uses keywords, I am actively intergating semantic filters.
 
 
 
